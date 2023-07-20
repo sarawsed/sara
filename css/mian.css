@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.test {
+  width: 600px;
+  background-color: greenyellow;
+  margin: 100px auto;
+  font: 1em sans-serif;
+  padding: 50px;
+}
